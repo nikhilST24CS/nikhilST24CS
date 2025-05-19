@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nikhil...
 - 👀 I’m interested in Codinglife
--  I’m currently learning Webdevelopment
-- 📫 My Contact -7275312132
+- 🧳 Traveling is MY Dream 
+-  I’m currently learning Development 
 - ⚡ Fun fact:❤️‍🔥
 
 <!---
